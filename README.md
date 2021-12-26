@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋,
+# Hello, folks! <img src="https://raw.githubusercontent.com/marciomeschini/marciomeschini/main/wave.gif" width="30px">
 
-Nice to meet you :)
+This is Marco and it's very nice to meet you :smiley:
 
-## I build mobile apps since 2008
+A long time ago I started with mobile apps and I haven't stopped since then :sauropod:
 
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning...
