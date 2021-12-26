@@ -36,14 +36,24 @@ A long time ago I started with mobile apps and I haven't stopped since then :sau
 
 ---
 
-### Languages and Tools:
+### During the week:
 
 [<code>
 <img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/swift.png">
 </code>](https://www.swift.org/)
 [<code>
+<img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/circleci.png">
+</code>](https://www.circleci.com/)
+[<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
+
+### and the weekend:
+
+[<code>
+<img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/raspberry.png">
+</code>](http://raspberrypi.com/)
+
 
 ---
 
